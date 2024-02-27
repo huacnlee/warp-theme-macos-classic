@@ -1,0 +1,25 @@
+---
+background: "#111110"
+accent: "#1E1D1E"
+foreground: "#EAEEEA"
+details: darker
+terminal_colors:
+  normal:
+    black: "#E8E4CF"
+    red: "#A8473B"
+    green: "#76BA53"
+    yellow: "#E1D797"
+    blue: "#3D6EB6"
+    magenta: "#AE30C2"
+    cyan: "#3DB6B0"
+    white: "#131313"
+  bright:
+    black: "#57564F"
+    red: "#DD6F61"
+    green: "#9DE478"
+    yellow: "#857F5C"
+    blue: "#81A9F6"
+    magenta: "#D86DE9"
+    cyan: "#5BDFD8"
+    white: "#3A3A3A"
+name: macOS Clasic Dark
