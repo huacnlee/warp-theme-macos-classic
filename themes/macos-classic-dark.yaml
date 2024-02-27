@@ -1,6 +1,6 @@
 ---
 background: "#111110"
-accent: "#1E1D1E"
+accent: "#515250"
 foreground: "#EAEEEA"
 details: darker
 terminal_colors:
@@ -22,4 +22,4 @@ terminal_colors:
     magenta: "#D86DE9"
     cyan: "#5BDFD8"
     white: "#3A3A3A"
-name: macOS Clasic Dark
+name: "macOS Clasic Dark"

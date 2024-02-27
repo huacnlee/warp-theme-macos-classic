@@ -1,20 +1,20 @@
 ---
 background: "#ffffff"
-accent: "#F0F0F0"
+accent: "#929292"
 foreground: "#000000"
 details: lighter
 terminal_colors:
   normal:
     black: "#000000"
     red: "#C5060B"
-    green: "#277F2B"
-    yellow: "#BDA400"
+    green: "#21973C"
+    yellow: "#856718"
     blue: "#282BFF"
-    magenta: "#AE30C2"
+    magenta: "#972197"
     cyan: "#0B0098"
     white: "#ffffff"
   bright:
-    black: "#4A4A4A"
+    black: "#3A3A3A"
     red: "#D9564E"
     green: "#449444"
     yellow: "#8E7823"
@@ -22,4 +22,4 @@ terminal_colors:
     magenta: "#BA3DCA"
     cyan: "#301CAE"
     white: "#999999"
-name: macOS Clasic Light
+name: "macOS Clasic Light"
